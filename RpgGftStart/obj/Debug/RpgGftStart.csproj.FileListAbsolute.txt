@@ -1,0 +1,8 @@
+C:\Users\Diego\source\repos\RpgGftStart\RpgGftStart\bin\Debug\RpgGftStart.exe.config
+C:\Users\Diego\source\repos\RpgGftStart\RpgGftStart\bin\Debug\RpgGftStart.exe
+C:\Users\Diego\source\repos\RpgGftStart\RpgGftStart\bin\Debug\RpgGftStart.pdb
+C:\Users\Diego\source\repos\RpgGftStart\RpgGftStart\obj\Debug\RpgGftStart.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\RpgGftStart\RpgGftStart\obj\Debug\RpgGftStart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\source\repos\RpgGftStart\RpgGftStart\obj\Debug\RpgGftStart.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\RpgGftStart\RpgGftStart\obj\Debug\RpgGftStart.exe
+C:\Users\Diego\source\repos\RpgGftStart\RpgGftStart\obj\Debug\RpgGftStart.pdb
